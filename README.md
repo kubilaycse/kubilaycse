@@ -1,8 +1,7 @@
 <!--
-- 🔭 Test Automation with Appium and Selenium
-- 🌱 API Testing
-- 💬 Writing Cucumber Scenario
-- 📫 kubilaycse@gmail.com
+# 💫 About Me:
+🔭 Test Automation with Appium and Selenium <br>🌱 API Testing  <br>💬 Writing Cucumber Scenario<br>📫 kubilaycse@gmail.com
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kblysrbrdk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kblysrbrdk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KblySrbrdk) 
@@ -17,4 +16,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kubilaycse&icon=0&color=6)](https://visitcount.itsvg.in)
+
 -->
