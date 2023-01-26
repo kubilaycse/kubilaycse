@@ -1,8 +1,8 @@
 ## Hello I'm Kubilay Sarıbardak!
 
 - 🔭 Test Automation with Appium and Selenium
-- 🌱 API Testing
-- 💬 Writing Cucumber Scenario
+- 🌱 Flutter
+- 💬 BDD, Cypress, Appium
 - 📫 kubilaycse@gmail.com
 
 ## 🌐 Socials:
