@@ -1,6 +1,6 @@
 ## Hello I'm Kubilay Sarıbardak!
 
-- 🔭 Test Automation with Appium and Selenium
+- 🔭 Test Automation with Appium and Cypress
 - 🌱 Flutter
 - 💬 BDD, Cypress, Appium
 - 📫 kubilaycse@gmail.com
